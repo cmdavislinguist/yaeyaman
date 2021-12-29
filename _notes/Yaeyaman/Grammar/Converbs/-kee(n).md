@@ -1,0 +1,2 @@
+- Converb suffix *-kee(n)* attaches to *-un* (present progressive) verb form.
+- Expresses a termporal meaning, difficult to pin down the precise semantics, and doesn't have an obvious equivalent in Japanese.

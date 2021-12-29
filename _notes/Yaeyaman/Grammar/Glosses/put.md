@@ -1,0 +1,2 @@
+# Preparatory auxiliary "put"
+Similar to Japanese *oku*, but seems to be used more widely. It has a meaning roughly like that of the Japanese auxiliary, something like "do something in advance, in preparation" etc. As an auxiliary it seems to often (or always?) be used with the [[PERF]] marker *-ee-*; in direct translation into Japanese giving things like しておいてある.
